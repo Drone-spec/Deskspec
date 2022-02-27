@@ -2,7 +2,7 @@
 
 cd .config
 mkdir nvim
-git clone https://github.com/drone-spec/Deskspec/init.vim
+git clone https://github.com/drone-spec/Deskspec/init.nvim
 cd ~
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 source $HOME/.cargo/nvim
