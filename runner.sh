@@ -16,3 +16,4 @@ sudo make install
 sudo apt-get install python3-pip
 sudo curl -sL install-node.vercel.app/lts | bash
 curl -sL install-node.vercel.app/lts | bash
+echo "open nvim and run :CocInstall coc-rust-analyzer"
