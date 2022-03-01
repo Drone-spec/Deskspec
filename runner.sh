@@ -1,5 +1,7 @@
 #!/bin/bash
 
+sudo apt-get install yakuake
+sudo apt-get tmux
 cd .config
 mkdir nvim
 git clone https://github.com/Drone-spec/Deskspec/init.nvim
