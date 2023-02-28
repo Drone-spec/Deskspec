@@ -1,0 +1,12 @@
+2023/02/28-13:25:22.833 3 Reusing MANIFEST /home/drone/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2023/02/28-13:25:22.833 3 Recovering log #3
+2023/02/28-13:25:22.834 3 Reusing old log /home/drone/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000003.log 
+2023/02/28-14:46:38.293 3 Level-0 table #5: started
+2023/02/28-14:46:38.317 3 Level-0 table #5: 25369 bytes OK
+2023/02/28-14:46:38.319 3 Delete type=0 #3
+2023/02/28-14:57:20.653 3 Level-0 table #7: started
+2023/02/28-14:57:20.658 3 Level-0 table #7: 118191 bytes OK
+2023/02/28-14:57:20.661 3 Delete type=0 #4
+2023/02/28-16:35:27.317 3 Level-0 table #9: started
+2023/02/28-16:35:27.336 3 Level-0 table #9: 18733 bytes OK
+2023/02/28-16:35:27.338 3 Delete type=0 #6

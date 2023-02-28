@@ -1,0 +1,425 @@
+{
+   "ApertureValue": {
+      "message": "光圈值"
+   },
+   "Artist": {
+      "message": "拍攝者"
+   },
+   "BitsPerSample": {
+      "message": "BitsPerSample"
+   },
+   "BrightnessValue": {
+      "message": "亮度"
+   },
+   "CFAPattern": {
+      "message": "CFA 模型"
+   },
+   "ColorSpace": {
+      "message": "色彩空間"
+   },
+   "ComponentsConfiguration": {
+      "message": "份量配置"
+   },
+   "CompressedBitsPerPixel": {
+      "message": "影像壓縮模式"
+   },
+   "Compression": {
+      "message": "壓縮方式"
+   },
+   "Contrast": {
+      "message": "對比"
+   },
+   "Copyright": {
+      "message": "版權"
+   },
+   "CustomRendered": {
+      "message": "Custom Rendered"
+   },
+   "DateTime": {
+      "message": "檔案修改時間"
+   },
+   "DateTimeDigitized": {
+      "message": "電子日期"
+   },
+   "DateTimeOriginal": {
+      "message": "拍攝時間"
+   },
+   "DeviceSettingDescription": {
+      "message": "裝置設定說明"
+   },
+   "DigitalZoomRation": {
+      "message": "數位變焦比率"
+   },
+   "ExifIFDPointer": {
+      "message": "ExifIFDPointer"
+   },
+   "ExifImageSize": {
+      "message": "Image Size"
+   },
+   "ExifVersion": {
+      "message": "Exif 版本"
+   },
+   "ExposureBias": {
+      "message": "曝光補償"
+   },
+   "ExposureIndex": {
+      "message": "曝光指數"
+   },
+   "ExposureMode": {
+      "message": "曝光模式"
+   },
+   "ExposureProgram": {
+      "message": "曝光模式"
+   },
+   "ExposureTime": {
+      "message": "曝光時間"
+   },
+   "FNumber": {
+      "message": "有效F值"
+   },
+   "FileSource": {
+      "message": "檔案來源"
+   },
+   "Flash": {
+      "message": "閃光"
+   },
+   "FlashEnergy": {
+      "message": "閃光能量"
+   },
+   "FlashpixVersion": {
+      "message": "Flashpix 版本"
+   },
+   "FocalLength": {
+      "message": "焦距"
+   },
+   "FocalLengthIn35mmFilm": {
+      "message": "等效焦長"
+   },
+   "FocalPlaneResolutionUnit": {
+      "message": "解析度"
+   },
+   "FocalPlaneXResolution": {
+      "message": "水平解析度"
+   },
+   "FocalPlaneYResolution": {
+      "message": "垂直解析度"
+   },
+   "GPSAltitude": {
+      "message": "高度"
+   },
+   "GPSAltitudeRef": {
+      "message": "高度基準"
+   },
+   "GPSAreaInformation": {
+      "message": "GPS區域名稱"
+   },
+   "GPSDOP": {
+      "message": "測量經度"
+   },
+   "GPSDateStamp": {
+      "message": "GPS日期"
+   },
+   "GPSDestBearing": {
+      "message": "方位"
+   },
+   "GPSDestBearingRef": {
+      "message": "方位基準"
+   },
+   "GPSDestDistance": {
+      "message": "距離"
+   },
+   "GPSDestDistanceRef": {
+      "message": "距離基準"
+   },
+   "GPSDestLatitude": {
+      "message": "緯度"
+   },
+   "GPSDestLatitudeRef": {
+      "message": "緯度基準"
+   },
+   "GPSDestLongitude": {
+      "message": "經度"
+   },
+   "GPSDestLongitudeRef": {
+      "message": "經度基準"
+   },
+   "GPSDifferential": {
+      "message": "GPS差異校正"
+   },
+   "GPSImgDirection": {
+      "message": "影像方向"
+   },
+   "GPSImgDirectionRef": {
+      "message": "影像方向基準"
+   },
+   "GPSInfoIFDPointer": {
+      "message": "GPSInfoIFDPointer"
+   },
+   "GPSLatitude": {
+      "message": "緯度"
+   },
+   "GPSLatitudeRef": {
+      "message": "南北緯度"
+   },
+   "GPSLongitude": {
+      "message": "經度"
+   },
+   "GPSLongitudeRef": {
+      "message": "東西經度"
+   },
+   "GPSMapDatum": {
+      "message": "測量統計數據"
+   },
+   "GPSMeasureMode": {
+      "message": "GPS測量模式"
+   },
+   "GPSProcessingMethod": {
+      "message": "GPS配置模式名稱"
+   },
+   "GPSSatellites": {
+      "message": "使用衛星"
+   },
+   "GPSSpeed": {
+      "message": "速度"
+   },
+   "GPSSpeedRef": {
+      "message": "速度單位"
+   },
+   "GPSStatus": {
+      "message": "GPS狀態"
+   },
+   "GPSTimeStamp": {
+      "message": "GPS時間"
+   },
+   "GPSTrack": {
+      "message": "移動方向"
+   },
+   "GPSTrackRef": {
+      "message": "移動方向基準"
+   },
+   "GPSVersionID": {
+      "message": "GPS版本"
+   },
+   "GainControl": {
+      "message": "增益控制"
+   },
+   "ISOSpeedRatings": {
+      "message": "ISO 感光度"
+   },
+   "ImageDescription": {
+      "message": "影像敘述"
+   },
+   "ImageHeight": {
+      "message": "影像高度"
+   },
+   "ImageUniqueID": {
+      "message": "唯一影像編號"
+   },
+   "ImageWidth": {
+      "message": "影像寬度"
+   },
+   "InteroperabilityIFDPointer": {
+      "message": "InteroperabilityIFDPointer"
+   },
+   "JPEGInterchangeFormat": {
+      "message": "JPEG InterchangeFormat"
+   },
+   "JPEGInterchangeFormatLength": {
+      "message": "JPEG Interchange Format Length"
+   },
+   "Lens": {
+      "message": "Lens"
+   },
+   "LensInfo": {
+      "message": "鏡頭資訊"
+   },
+   "LensMake": {
+      "message": "鏡頭製造廠商"
+   },
+   "LensModel": {
+      "message": "LensModel"
+   },
+   "LensSerialNumber": {
+      "message": "LensSerialNumber"
+   },
+   "LightSource": {
+      "message": "光源"
+   },
+   "Make": {
+      "message": "製造廠商"
+   },
+   "MakerNote": {
+      "message": "製造商說明"
+   },
+   "MaxApertureValue": {
+      "message": "最大光圈"
+   },
+   "MeteringMode": {
+      "message": "測光模式"
+   },
+   "Model": {
+      "message": "型號"
+   },
+   "OECF": {
+      "message": "光電轉換係數"
+   },
+   "Orientation": {
+      "message": "影像方向"
+   },
+   "PhotometricInterpretation": {
+      "message": "Pixel composition"
+   },
+   "PixelXDimension": {
+      "message": "有效影像寬度"
+   },
+   "PixelYDimension": {
+      "message": "有效影像高度"
+   },
+   "PlanarConfiguration": {
+      "message": "PlanarConfiguration"
+   },
+   "PrimaryChromaticities": {
+      "message": "Primary Chromaticities"
+   },
+   "ReferenceBlackWhite": {
+      "message": "Reference Black White"
+   },
+   "RelatedSoundFile": {
+      "message": "相關聲音檔案"
+   },
+   "ResolutionUnit": {
+      "message": "解析度"
+   },
+   "RowsPerStrip": {
+      "message": "Rows Per Strip"
+   },
+   "SamplesPerPixel": {
+      "message": "SamplesPerPixel"
+   },
+   "Saturation": {
+      "message": "飽和度"
+   },
+   "SceneCaptureType": {
+      "message": "場景拍攝模式"
+   },
+   "SceneType": {
+      "message": "鏡頭型號"
+   },
+   "SensingMethod": {
+      "message": "感光模式"
+   },
+   "Sharpness": {
+      "message": "銳利度"
+   },
+   "ShutterSpeedValue": {
+      "message": "快門速度"
+   },
+   "Software": {
+      "message": "軟體"
+   },
+   "SpatialFrequencyResponse": {
+      "message": "Spatial Frequency Response"
+   },
+   "SpectralSensitivity": {
+      "message": "Spectral Sensitivity"
+   },
+   "StripByteCounts": {
+      "message": "Strip Byte Counts"
+   },
+   "StripOffsets": {
+      "message": "Strip Offsets"
+   },
+   "SubjectArea": {
+      "message": "Subject Area"
+   },
+   "SubjectDistance": {
+      "message": "主體距離"
+   },
+   "SubjectDistanceRange": {
+      "message": "主體距離範圍"
+   },
+   "SubjectLocation": {
+      "message": "實體定位"
+   },
+   "SubsecTime": {
+      "message": "Subsec Time"
+   },
+   "SubsecTimeDigitized": {
+      "message": "Subsec Time Digitized"
+   },
+   "SubsecTimeOriginal": {
+      "message": "Subsec Time Original"
+   },
+   "TransferFunction": {
+      "message": "Transfer Function"
+   },
+   "UserComment": {
+      "message": "使用者備註"
+   },
+   "WhiteBalance": {
+      "message": "白平衡"
+   },
+   "WhitePoint": {
+      "message": "White Point"
+   },
+   "XResolution": {
+      "message": "水平解析度"
+   },
+   "YCbCrCoefficients": {
+      "message": "YCbCr Coefficients"
+   },
+   "YCbCrPositioning": {
+      "message": "YCbCr Positioning"
+   },
+   "YCbCrSubSampling": {
+      "message": "YCbCr Sub Sampling"
+   },
+   "YResolution": {
+      "message": "垂直解析度"
+   },
+   "description": {
+      "message": "Quick access to EXIF data of any image you view"
+   },
+   "dialogClose": {
+      "message": "關閉"
+   },
+   "dialogCollapse": {
+      "message": "收起"
+   },
+   "dialogConfigure": {
+      "message": "配置"
+   },
+   "dialogCopyToClipboard": {
+      "message": "複製"
+   },
+   "dialogExpand": {
+      "message": "展開"
+   },
+   "dialogTabData": {
+      "message": "資料"
+   },
+   "dialogTabGeolocation": {
+      "message": "地理位置"
+   },
+   "dialogTabHistogram": {
+      "message": "Histogram"
+   },
+   "dialogTitle": {
+      "message": "EXIF 資料"
+   },
+   "menuitem": {
+      "message": "顯示 EXIF 資料"
+   },
+   "noEXIF": {
+      "message": "EXIF 資料不存在"
+   },
+   "optionsDone": {
+      "message": "完成!"
+   },
+   "optionsSaved": {
+      "message": "選項已儲存"
+   },
+   "title": {
+      "message": "EXIF Viewer"
+   }
+}

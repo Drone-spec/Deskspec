@@ -1,0 +1,33 @@
+2023/02/28-13:25:22.831 2354b Reusing MANIFEST /home/drone/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/MANIFEST-000001
+2023/02/28-13:25:22.831 2354b Recovering log #3
+2023/02/28-13:25:22.831 2354b Reusing old log /home/drone/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/000003.log 
+2023/02/28-13:51:18.883 26ab0 Level-0 table #5: started
+2023/02/28-13:51:18.886 26ab0 Level-0 table #5: 127120 bytes OK
+2023/02/28-13:51:18.888 26ab0 Delete type=0 #3
+2023/02/28-14:19:57.483 26ab0 Level-0 table #7: started
+2023/02/28-14:19:57.511 26ab0 Level-0 table #7: 76889 bytes OK
+2023/02/28-14:19:57.514 26ab0 Delete type=0 #4
+2023/02/28-14:46:27.646 2353e Level-0 table #9: started
+2023/02/28-14:46:27.670 2353e Level-0 table #9: 72774 bytes OK
+2023/02/28-14:46:27.672 2353e Delete type=0 #6
+2023/02/28-15:08:52.711 2353f Level-0 table #11: started
+2023/02/28-15:08:52.717 2353f Level-0 table #11: 81450 bytes OK
+2023/02/28-15:08:52.720 2353f Delete type=0 #8
+2023/02/28-15:53:07.975 26ab0 Level-0 table #13: started
+2023/02/28-15:53:07.979 26ab0 Level-0 table #13: 65656 bytes OK
+2023/02/28-15:53:07.982 26ab0 Delete type=0 #10
+2023/02/28-16:34:27.187 26ab0 Level-0 table #15: started
+2023/02/28-16:34:27.229 26ab0 Level-0 table #15: 68335 bytes OK
+2023/02/28-16:34:27.231 26ab0 Delete type=0 #12
+2023/02/28-16:34:27.232 26ab0 Compacting 4@0 + 1@1 files
+2023/02/28-16:34:27.236 26ab0 Generated table #16@0: 45 keys, 8374 bytes
+2023/02/28-16:34:27.236 26ab0 Compacted 4@0 + 1@1 files => 8374 bytes
+2023/02/28-16:34:27.238 26ab0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/02/28-16:34:27.238 26ab0 Delete type=2 #13
+2023/02/28-16:34:27.238 26ab0 Delete type=2 #7
+2023/02/28-16:34:27.238 26ab0 Delete type=2 #9
+2023/02/28-16:34:27.238 26ab0 Delete type=2 #11
+2023/02/28-16:34:27.238 26ab0 Delete type=2 #15
+2023/02/28-16:42:36.299 26ab0 Level-0 table #18: started
+2023/02/28-16:42:36.305 26ab0 Level-0 table #18: 85567 bytes OK
+2023/02/28-16:42:36.307 26ab0 Delete type=0 #14

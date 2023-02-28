@@ -1,0 +1,27 @@
+{
+   "background": {
+      "page": "src/bg/background.html",
+      "persistent": true
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "icons/chaff_icon_19.png",
+         "38": "icons/chaff_icon_38.png"
+      },
+      "default_title": "Chaff"
+   },
+   "default_locale": "en",
+   "description": "Generate random web browsing traffic to obfuscate actual browsing behavior to avoid profiling through 3rd party observation.",
+   "icons": {
+      "128": "icons/chaff_icon_128.png",
+      "16": "icons/chaff_icon_16.png",
+      "48": "icons/chaff_icon_48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlpkzc6nsfVZNKRtw0lRav6ZAOGlMqXhow6fsDe6rL0CgCdtRplRl6XZzG9Ny4VXWxLMoT9KNnNHMdvQ1T7qrKXn6qnHJGbD/k/75iNwf1HAj61yRdAxpRiuc4pdFxJQS8T6E4ubqXkzTxNAT3aMdEs/80Tm2+kS2yRdzkJfFF66NdCq1wPV22R+shCgUbe+HQ1LtyVrb9EDz6MN3ZqfU7oqlXzJGHwdEZTgUCsmq191R+Gk8VzFF9xd7LujmEjQQCwOn1ElctqXj6E9dUTkMQ+EQ37KXIcs6HUjCx+9OvNeQ8gqIJOwmA4A3EnmAEyse4IR10F0ZAQprPXpuzcO1vwIDAQAB",
+   "manifest_version": 2,
+   "name": "Chaff",
+   "options_page": "src/options_custom/index.html",
+   "permissions": [ "idle", "tabs", "bookmarks", "http://*/*", "https://*/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.2.5"
+}

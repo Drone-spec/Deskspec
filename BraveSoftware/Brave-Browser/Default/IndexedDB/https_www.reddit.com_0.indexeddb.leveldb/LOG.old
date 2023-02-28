@@ -1,0 +1,6 @@
+2023/02/28-14:44:41.312 2353f Creating DB /home/drone/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb since it was missing.
+2023/02/28-14:44:41.315 2353f Reusing MANIFEST /home/drone/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/28-14:45:34.878 2353f Level-0 table #5: started
+2023/02/28-14:45:34.880 2353f Level-0 table #5: 1882 bytes OK
+2023/02/28-14:45:34.881 2353f Delete type=0 #3
+2023/02/28-14:45:34.882 2353f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

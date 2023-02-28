@@ -1,0 +1,41 @@
+{
+   "background": {
+      "page": "index.html"
+   },
+   "browser_action": {
+      "default_icon": "webAccessibleResources/img/icons/icon-32.png",
+      "default_popup": "webAccessibleResources/quickaccess.html?passbolt=quickaccess",
+      "default_title": "Passbolt Quickaccess",
+      "theme_icons": [ {
+         "dark": "webAccessibleResources/img/icons/icon-32.png",
+         "light": "webAccessibleResources/img/icons/icon-32.png",
+         "size": 32
+      } ]
+   },
+   "commands": {
+      "passbolt-open": {
+         "description": "Open passbolt in a new tab!",
+         "suggested_key": {
+            "default": "Alt+Shift+P",
+            "mac": "Alt+Shift+P"
+         }
+      }
+   },
+   "default_locale": "en",
+   "description": "__MSG_appDescription__",
+   "externally_connectable": {
+   },
+   "icons": {
+      "128": "webAccessibleResources/img/icons/icon-128.png",
+      "16": "webAccessibleResources/img/icons/icon-16.png",
+      "48": "webAccessibleResources/img/icons/icon-48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs5nqGEHEpWtyuON/Im+FRDxH8G1nn52Nf9g6TWAF6umCT7VDTYG+8tvoerV0EbzS9J9slQEyZX6KK2fSd1mC83PkR3WbRSbQIV83EPXoZu439t4oJKqFJsiEcxh0bnlaQhJf41K9BG2eHD1BXfI5yx9Ng7UfpEnJY/hYI0AE/dUMxLdnjQlRmEw3DI+kMMwUhvPAtJwIcMkIgQ12dGwab4OhN17ydEu5y3CBVDtlLuTqIUqropk2a0u291r7MIPpQu/I5GZb0C00E/ole7fIlysO4CJnYnfm7qAoP/IqzyRGvwt6pDnd1nCuuc8F+IyY+4Sdkm0RPZjlx57JQGHjEwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "permissions": [ "activeTab", "tabs", "unlimitedStorage", "storage", "background", "clipboardWrite", "downloads", "*://*/*", "alarms" ],
+   "short_name": "passbolt",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.10.0",
+   "web_accessible_resources": [ "webAccessibleResources/*" ]
+}

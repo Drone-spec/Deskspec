@@ -1,0 +1,11 @@
+2023/02/28-13:08:29.321 1d518 Creating DB /home/drone/.config/discord/Local Storage/leveldb since it was missing.
+2023/02/28-13:08:29.327 1d518 Reusing MANIFEST /home/drone/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/02/28-13:10:32.819 1d517 Level-0 table #5: started
+2023/02/28-13:10:32.874 1d517 Level-0 table #5: 1435389 bytes OK
+2023/02/28-13:10:32.876 1d517 Delete type=0 #3
+2023/02/28-14:36:32.819 1d517 Level-0 table #7: started
+2023/02/28-14:36:32.824 1d517 Level-0 table #7: 11632 bytes OK
+2023/02/28-14:36:32.826 1d517 Delete type=0 #4
+2023/02/28-15:57:32.819 48e98 Level-0 table #9: started
+2023/02/28-15:57:32.823 48e98 Level-0 table #9: 13629 bytes OK
+2023/02/28-15:57:32.825 48e98 Delete type=0 #6

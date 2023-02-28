@@ -1,0 +1,3 @@
+Ghidra
+hostnames
+checksum_v1 = 45f262e9e45c34fb31e62c555680f2ed
