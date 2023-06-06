@@ -36,3 +36,9 @@ pipx install ./tools/impacket
 
 yay flameshot
 
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+
+cargo install bottom
+
+cargo install mdbook
+
