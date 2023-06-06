@@ -33,3 +33,6 @@ yay burpsuite
 yay ffuf
 
 pipx install ./tools/impacket
+
+yay flameshot
+
