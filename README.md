@@ -30,6 +30,8 @@ sudo ./strap.sh
 
 yay burpsuite
 
+yay exploitdb
+
 yay ffuf
 
 pipx install ./tools/impacket
@@ -41,4 +43,5 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 cargo install bottom
 
 cargo install mdbook
+
 
