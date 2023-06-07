@@ -16,6 +16,10 @@ yay neovide
 
 yay brave
 
+yay responder
+
+yay lazygit
+
 yay obsidian
 
 yay pipx
