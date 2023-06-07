@@ -24,7 +24,13 @@ yay obsidian
 
 yay socat
 
+yay tcpdump
+
 yay pipx
+
+yay powershell
+
+yay powersploit
 
 curl -O https://blackarch.org/strap.sh
 
