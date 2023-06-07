@@ -22,6 +22,8 @@ yay lazygit
 
 yay obsidian
 
+yay socat
+
 yay pipx
 
 curl -O https://blackarch.org/strap.sh
