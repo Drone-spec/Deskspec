@@ -59,4 +59,8 @@ cargo install bottom
 
 cargo install mdbook
 
+yay hashcat
+
+yay chisel
+
 
