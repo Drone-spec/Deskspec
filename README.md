@@ -20,7 +20,10 @@ chmod +x strap.sh
 
 sudo ./strap.sh
 
-yay neovide
+yay neovim
+
+git clone --depth 1 https://github.com/wbthomason/packer.nvim\
+ ~/.local/share/nvim/site/pack/packer/start/packer.nvim
 
 yay brave
 
