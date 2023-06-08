@@ -12,6 +12,14 @@ git clone https://github.com/fortra/impacket.git ./tools/impacket
 
 git clone https://github.com/danielmiessler/SecLists.git ./tools/seclists
 
+curl -O https://blackarch.org/strap.sh
+
+echo 5ea40d49ecd14c2e024deecf90605426db97ea0c strap.sh | sha1sum -c
+
+chmod +x strap.sh
+
+sudo ./strap.sh
+
 yay neovide
 
 yay brave
@@ -31,14 +39,6 @@ yay pipx
 yay powershell
 
 yay powersploit
-
-curl -O https://blackarch.org/strap.sh
-
-echo 5ea40d49ecd14c2e024deecf90605426db97ea0c strap.sh | sha1sum -c
-
-chmod +x strap.sh
-
-sudo ./strap.sh
 
 yay burpsuite
 
