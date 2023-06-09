@@ -63,4 +63,4 @@ yay hashcat
 
 yay chisel
 
-
+yay proxychains-ng
