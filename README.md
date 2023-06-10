@@ -73,4 +73,7 @@ yay recordmydesltop
 
 yay crackmapexec
 
+yay evil-winrm
+
+
 
