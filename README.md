@@ -68,3 +68,9 @@ yay proxychains-ng
 yay nmap
 
 yay openbsd-netcat
+
+yay recordmydesltop
+
+yay crackmapexec
+
+
