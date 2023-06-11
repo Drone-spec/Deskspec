@@ -75,5 +75,5 @@ yay crackmapexec
 
 yay evil-winrm
 
-
+python3 -m pip install --user uploadserver
 
