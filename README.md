@@ -77,3 +77,8 @@ yay evil-winrm
 
 python3 -m pip install --user uploadserver
 
+yay bloodhound
+
+yay hydra
+
+
