@@ -81,4 +81,8 @@ yay bloodhound
 
 yay hydra
 
+yay snmpattack
 
+yay snmpscan
+
+yay snmpwalk
