@@ -22,8 +22,9 @@
 # is used in the bar {} block below.
 # This font is widely installed, provides lots of unicode glyphs, right-to-left
 # text rendering and scalability on retina/hidpi displays (thanks to pango).
-font pango: Noto Sans Regular 10
-#font ProggyClean Nerd Font , pango: Noto Sans Regular 10
+#font pango: Noto Sans Regular 10
+font ProggyClean Nerd Font Regular 12 , pango: Noto Sans Regular 10 
+
 
 # set the mod key to the winkey:
 set $mod Mod4
@@ -380,7 +381,7 @@ exec --no-startup-id dex --autostart --environment i3
 
 # start a script to setup displays
 # uncomment the next line, use arandr to setup displays and save the file as monitor:
-exec --no-startup-id ~/.config/i3/scripts/orgscreen1.sh	
+exec --no-startup-id ~/.config/i3/scripts/screenfix.sh	
 
 # set wallpaper
 # exec --no-startup-id sleep 2 && nitrogen --restore
@@ -610,3 +611,4 @@ bindsym $mod+t exec rofi -show window \
 #######################
 
 bindsym Print exec /usr/bin/flameshot gui
+bindsym $mod+m exec obsidian
