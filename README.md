@@ -69,7 +69,7 @@ yay nmap
 
 yay openbsd-netcat
 
-yay recordmydesltop
+yay recordmydesktop
 
 yay crackmapexec
 
