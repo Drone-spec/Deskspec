@@ -1,88 +1,20 @@
-Fresh install on Endeavour
+# DOTFILES
 
-mkdir git
+Well here are dotfiles to some of the stuff I enjoy using.
 
-mdir tools
+## Tools
 
-git clone --depth 1 https://github.com/ryanoasis/nerd-fonts.git ./git/nerdfont
+These are tools I highly recommend.
 
-git clone https://github.com/Drone-spec/Deskspec.git ./git/Deskspec
+flameshot - The HANDS DOWN best screenshot tools.
 
-git clone https://github.com/fortra/impacket.git ./tools/impacket
+mdbook - allows you to run markdown notes into a website, combine this with a careful obsidian and you have a powerful combo.
 
-git clone https://github.com/danielmiessler/SecLists.git ./tools/seclists
+neovim - I love my neovim. I have ditched running a fully custom nvim setup for a more standard astro setup.
 
-curl -O https://blackarch.org/strap.sh
+kitty - I enjoy this as my main terminal. it comes with some skill issues like other terminals not understanding it but thats just a simple export.
 
-echo 5ea40d49ecd14c2e024deecf90605426db97ea0c strap.sh | sha1sum -c
+## Desktops
 
-chmod +x strap.sh
+i3 - This has become my fav desktop tool. The ability to toss my mouse out a window and still function has been great!
 
-sudo ./strap.sh
-
-yay neovim
-
-git clone --depth 1 https://github.com/wbthomason/packer.nvim\
- ~/.local/share/nvim/site/pack/packer/start/packer.nvim
-
-yay brave
-
-yay responder
-
-yay lazygit
-
-yay obsidian
-
-yay socat
-
-yay tcpdump
-
-yay pipx
-
-yay powershell
-
-yay powersploit
-
-yay burpsuite
-
-yay exploitdb
-
-yay ffuf
-
-pipx install ./tools/impacket
-
-yay flameshot
-
-curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
-
-cargo install bottom
-
-cargo install mdbook
-
-yay hashcat
-
-yay chisel
-
-yay proxychains-ng
-
-yay nmap
-
-yay openbsd-netcat
-
-yay recordmydesktop
-
-yay crackmapexec
-
-yay evil-winrm
-
-python3 -m pip install --user uploadserver
-
-yay bloodhound
-
-yay hydra
-
-yay snmpattack
-
-yay snmpscan
-
-yay snmpwalk
